@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+openai
+whisper
+ffmpeg-python
+pydantic
+sqlalchemy
+psycopg2-binary
+streamlit
+python-dotenv
+requests
+aiohttp
